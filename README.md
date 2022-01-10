@@ -1,1 +1,1 @@
-# odin-recipes
+This project will demonstrate basic HTML skills by building a recipe blog. This website is (for now) built solely using HTML.
